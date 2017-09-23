@@ -1,0 +1,76 @@
+#top{
+    width: auto;
+    height: 40px;
+    background-color: #74C6BE;
+}
+.title{
+    width: 500px;
+    height:40px;
+    margin:auto;
+}
+#p1{
+    font-size: 40px;
+    color: white;
+    font-family: 'Wendy One', sans-serif;
+    float: left;
+}
+#p2{
+    font-size: 30px;
+    color: white;
+    font-family: 'Wendy One', sans-serif;
+    float: left;
+    margin-left:30px;
+    margin-top: 5px;
+}
+#p3{
+    font-size: 20px;
+    color: white;
+    font-family: 'Wendy One', sans-serif;
+    float: left;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+#circle1{
+    fill: #74C6BE;
+    stroke: #FFF100;
+    stroke-width: 4px;
+}
+#circle2{
+    fill: #CFDB00;
+    stroke: #74C6BE;
+    stroke-width: 8px;
+}
+#circle3{
+    fill: #FFF100;
+    stroke: #FABE00;
+    stroke-width: 2px;
+    opacity: 0.7;
+}
+#circle4{
+    fill: #CFDB00;
+    stroke: #FFF100;
+    stroke-width: 1px;
+    opacity: 0.7;
+}
+#circle5{
+    fill: #FABE00;
+    stroke: #74C6BE;
+    stroke-width: 1px;
+    opacity: 0.5;
+}
+#circle6{
+    fill: #FFF100;
+    stroke: #FABE00;
+    stroke-width: 1px;
+    opacity: 0.5;
+}
+
+
+
+
+#bottom{
+    width:auto;
+    height: 30px;
+    background-color: #74C6BE;
+}
