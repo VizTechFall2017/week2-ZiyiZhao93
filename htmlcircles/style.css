@@ -1,0 +1,14 @@
+#circle1{
+    fill:blue;
+    opacity: 0.5;
+}
+
+#circle2{
+    fill:pink;
+}
+
+#circle3{
+    fill:yellow;
+    stroke-width: 3px;
+    stroke: pink;
+}
