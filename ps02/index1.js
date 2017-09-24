@@ -19,42 +19,48 @@ indexCard.append('line')
     .attr('y1', 110)
     .attr('x2', 150)
     .attr('y2', 110)
-    .attr('stroke', '#E2844A');
+    .attr('stroke', '#E2844A')
+    .attr('stroke-width', 3);
 
 indexCard.append('line')
     .attr('x1', 150)
     .attr('y1', 110)
     .attr('x2', 180)
     .attr('y2', 130)
-    .attr('stroke', '#E2844A');
+    .attr('stroke', '#E2844A')
+    .attr('stroke-width', 3);
 
 indexCard.append('line')
     .attr('x1', 180)
     .attr('y1', 130)
     .attr('x2', 170)
     .attr('y2', 110)
-    .attr('stroke', '#E2844A');
+    .attr('stroke', '#E2844A')
+    .attr('stroke-width', 3);
 
 indexCard.append('line')
     .attr('x1', 170)
     .attr('y1', 110)
     .attr('x2', 200)
     .attr('y2', 110)
-    .attr('stroke', '#E2844A');
+    .attr('stroke', '#E2844A')
+    .attr('stroke-width', 3);
 
 indexCard.append('line')
     .attr('x1', 200)
     .attr('y1', 110)
     .attr('x2', 200)
     .attr('y2', 30)
-    .attr('stroke', '#E2844A');
+    .attr('stroke', '#E2844A')
+    .attr('stroke-width', 3);
 
 indexCard.append('line')
     .attr('x1', 200)
     .attr('y1', 30)
     .attr('x2', 50)
     .attr('y2', 30)
-    .attr('stroke', '#E2844A');
+    .attr('stroke', '#E2844A')
+    .attr('stroke-width', 3);
 
 //hello
 
