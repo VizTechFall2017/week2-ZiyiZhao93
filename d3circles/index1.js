@@ -13,7 +13,7 @@ var circle1 = indexCard.append('circle')
         if (clicked == true) {
         d3.select(this).attr('fill', 'orange').transition().attr('r', 40);
         clicked = false;
-    }
+        }
         else {
             d3.select(this).attr('fill', 'pink').attr('r', 60);
             clicked = true;
