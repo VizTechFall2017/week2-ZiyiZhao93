@@ -11,7 +11,8 @@ indexCard.append('line')
     .attr('y1', 30)
     .attr('x2', 50)
     .attr('y2', 110)
-    .attr('stroke', '#E2844A');
+    .attr('stroke', '#E2844A')
+    .attr('stroke-width', 3);
 
 indexCard.append('line')
     .attr('x1', 50)
@@ -194,11 +195,18 @@ indexCard.append('circle')
     .attr('r',20)
     .attr('fill', '#E2844A')
     .attr('stroke', '#F1C279')
-    .on('mouseover', function (d) {
-        d3.select(this).attr('fill', '#F1C279').attr('stroke', '#E2844A');
-    })
-    .on('mouseout', function (d) {
-        d3.select(this).attr('fill', '#E2844A').attr('stroke', '#F1C279');
+    .on('click', function (d) {
+        if (clicked == true) {
+            d3.select(this).attr('fill', '#F1C279').attr('stroke', '#E2844A')
+                .transition(0.3).attr('r', 25);
+            clicked = false;
+        }
+        else {
+            d3.select(this).attr('fill', '#E2844A').attr('stroke', '#F1C279')
+                .transition(0.3).attr('r', 20);
+            clicked = true;
+        }
+        console.log(clicked);
     });
 
 //head
