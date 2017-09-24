@@ -12,7 +12,7 @@ indexCard.append('line')
     .attr('x2', 50)
     .attr('y2', 110)
     .attr('stroke', '#E2844A')
-    .attr('stroke-width', 3);
+    .attr('stroke-width', 6);
 
 indexCard.append('line')
     .attr('x1', 50)
@@ -20,7 +20,7 @@ indexCard.append('line')
     .attr('x2', 150)
     .attr('y2', 110)
     .attr('stroke', '#E2844A')
-    .attr('stroke-width', 3);
+    .attr('stroke-width', 6);
 
 indexCard.append('line')
     .attr('x1', 150)
@@ -28,7 +28,7 @@ indexCard.append('line')
     .attr('x2', 180)
     .attr('y2', 130)
     .attr('stroke', '#E2844A')
-    .attr('stroke-width', 3);
+    .attr('stroke-width', 6);
 
 indexCard.append('line')
     .attr('x1', 180)
@@ -36,7 +36,7 @@ indexCard.append('line')
     .attr('x2', 170)
     .attr('y2', 110)
     .attr('stroke', '#E2844A')
-    .attr('stroke-width', 3);
+    .attr('stroke-width', 6);
 
 indexCard.append('line')
     .attr('x1', 170)
@@ -44,7 +44,7 @@ indexCard.append('line')
     .attr('x2', 200)
     .attr('y2', 110)
     .attr('stroke', '#E2844A')
-    .attr('stroke-width', 3);
+    .attr('stroke-width', 6);
 
 indexCard.append('line')
     .attr('x1', 200)
@@ -52,7 +52,7 @@ indexCard.append('line')
     .attr('x2', 200)
     .attr('y2', 30)
     .attr('stroke', '#E2844A')
-    .attr('stroke-width', 3);
+    .attr('stroke-width', 6);
 
 indexCard.append('line')
     .attr('x1', 200)
@@ -60,7 +60,7 @@ indexCard.append('line')
     .attr('x2', 50)
     .attr('y2', 30)
     .attr('stroke', '#E2844A')
-    .attr('stroke-width', 3);
+    .attr('stroke-width', 6);
 
 //hello
 
@@ -69,119 +69,136 @@ indexCard.append('line')
     .attr('y1', 50)
     .attr('x2', 65)
     .attr('y2', 90)
-    .attr('stroke', '#223774');
+    .attr('stroke', '#223774')
+    .attr('stroke-width', 3);
 
 indexCard.append('line')
     .attr('x1', 65)
     .attr('y1', 70)
     .attr('x2', 85)
     .attr('y2', 70)
-    .attr('stroke', '#223774');
+    .attr('stroke', '#223774')
+    .attr('stroke-width', 3);
 
 indexCard.append('line')
     .attr('x1', 85)
     .attr('y1', 50)
     .attr('x2', 85)
     .attr('y2', 90)
-    .attr('stroke', '#223774');
+    .attr('stroke', '#223774')
+    .attr('stroke-width', 3);
 
 indexCard.append('line')
     .attr('x1', 89)
     .attr('y1', 50)
     .attr('x2', 89)
     .attr('y2', 90)
-    .attr('stroke', '#223774');
+    .attr('stroke', '#223774')
+    .attr('stroke-width', 3);
 
 indexCard.append('line')
     .attr('x1', 89)
     .attr('y1', 50)
     .attr('x2', 109)
     .attr('y2', 50)
-    .attr('stroke', '#223774');
+    .attr('stroke', '#223774')
+    .attr('stroke-width', 3);
 
 indexCard.append('line')
     .attr('x1', 89)
     .attr('y1', 70)
     .attr('x2', 104)
     .attr('y2', 70)
-    .attr('stroke', '#223774');
+    .attr('stroke', '#223774')
+    .attr('stroke-width', 3);
 
 indexCard.append('line')
     .attr('x1', 89)
     .attr('y1', 90)
     .attr('x2', 109)
     .attr('y2', 90)
-    .attr('stroke', '#223774');
+    .attr('stroke', '#223774')
+    .attr('stroke-width', 3);
 
 indexCard.append('line')
     .attr('x1', 113)
     .attr('y1', 50)
     .attr('x2', 113)
     .attr('y2', 90)
-    .attr('stroke', '#223774');
+    .attr('stroke', '#223774')
+    .attr('stroke-width', 3);
 
 indexCard.append('line')
     .attr('x1', 113)
     .attr('y1', 90)
     .attr('x2', 133)
     .attr('y2', 90)
-    .attr('stroke', '#223774');
+    .attr('stroke', '#223774')
+    .attr('stroke-width', 3);
 
 indexCard.append('line')
     .attr('x1', 137)
     .attr('y1', 50)
     .attr('x2', 137)
     .attr('y2', 90)
-    .attr('stroke', '#223774');
+    .attr('stroke', '#223774')
+    .attr('stroke-width', 3);
 
 indexCard.append('line')
     .attr('x1', 137)
     .attr('y1', 90)
     .attr('x2', 157)
     .attr('y2', 90)
-    .attr('stroke', '#223774');
+    .attr('stroke', '#223774')
+    .attr('stroke-width', 3);
 
 indexCard.append('line')
     .attr('x1', 161)
     .attr('y1', 50)
     .attr('x2', 161)
     .attr('y2', 90)
-    .attr('stroke', '#223774');
+    .attr('stroke', '#223774')
+    .attr('stroke-width', 3);
 
 indexCard.append('line')
     .attr('x1', 161)
     .attr('y1', 50)
     .attr('x2', 181)
     .attr('y2', 50)
-    .attr('stroke', '#223774');
+    .attr('stroke', '#223774')
+    .attr('stroke-width', 3);
 
 indexCard.append('line')
     .attr('x1', 181)
     .attr('y1', 50)
     .attr('x2', 181)
     .attr('y2', 90)
-    .attr('stroke', '#223774');
+    .attr('stroke', '#223774')
+    .attr('stroke-width', 3);
 
 indexCard.append('line')
     .attr('x1', 161)
     .attr('y1', 90)
     .attr('x2', 181)
     .attr('y2', 90)
-    .attr('stroke', '#223774');
+    .attr('stroke', '#223774')
+    .attr('stroke-width', 3);
 
 indexCard.append('line')
     .attr('x1', 185)
     .attr('y1', 50)
     .attr('x2', 185)
     .attr('y2', 80)
-    .attr('stroke', '#223774');
+    .attr('stroke', '#223774')
+    .attr('stroke-width', 3);
 
 indexCard.append('line')
     .attr('x1', 185)
     .attr('y1', 85)
     .attr('x2', 185)
     .attr('y2', 90)
-    .attr('stroke', '#223774');
+    .attr('stroke', '#223774')
+    .attr('stroke-width', 3);
 
 
 //ball line
@@ -201,6 +218,7 @@ indexCard.append('circle')
     .attr('r',20)
     .attr('fill', '#E2844A')
     .attr('stroke', '#F1C279')
+    .attr('stroke-width', 3)
     .on('click', function (d) {
         if (clicked == true) {
             d3.select(this).attr('fill', '#F1C279').attr('stroke', '#E2844A')
@@ -271,6 +289,7 @@ indexCard.append('circle')
     .attr('r',25)
     .attr('fill', '#F1C279')
     .attr('stroke', '#E2844A')
+    .attr('stroke-width', 6)
     .on('mouseover', function (d) {
         d3.select(this).attr('r', 8);
     })
@@ -286,6 +305,7 @@ indexCard.append('circle')
     .attr('r',12)
     .attr('fill', '#F1C279')
     .attr('stroke', '#E2844A')
+    .attr('stroke-width', 4)
     .on('mouseover', function (d) {
         d3.select(this).attr('r', 20);
     })
@@ -1068,11 +1088,19 @@ indexCard.append('circle')
     .attr('r',20)
     .attr('fill', '#00739C')
     .attr('stroke', '#92B4CD')
-    .on('mouseover', function (d) {
-        d3.select(this).attr('fill', '#92B4CD').attr('stroke', '#00739C');
-    })
-    .on('mouseout', function (d) {
-        d3.select(this).attr('fill', '#00739C').attr('stroke', '#92B4CD');
+    .attr('stroke-width', 3)
+    .on('click', function (d) {
+        if (clicked == true) {
+            d3.select(this).attr('fill', '#92B4CD').attr('stroke', '#00739C')
+                .transition(0.3).attr('r', 25);
+            clicked = false;
+        }
+        else {
+            d3.select(this).attr('fill', '#00739C').attr('stroke', '#92B4CD')
+                .transition(0.3).attr('r', 20);
+            clicked = true;
+        }
+        console.log(clicked);
     });
 
 //head
@@ -1131,6 +1159,7 @@ indexCard.append('circle')
     .attr('r', 12)
     .attr('fill', '#92B4CD')
     .attr('stroke', '#00739C')
+    .attr('stroke-width', 6)
     .on('mouseover', function (d) {
         d3.select(this).attr('r', 20);
     })
@@ -1146,6 +1175,7 @@ indexCard.append('circle')
     .attr('r', 25)
     .attr('fill', '#92B4CD')
     .attr('stroke', '#00739C')
+    .attr('stroke-width', 4)
     .on('mouseover', function (d) {
         d3.select(this).attr('r', 8);
     })
