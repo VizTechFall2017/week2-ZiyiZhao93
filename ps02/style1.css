@@ -1,13 +1,13 @@
 #top{
     width:200px;
     height: 40px;
-    background-color: #DCEEE7;
+    background-color: #648C78;
     margin-top: 200px;
     float: left;
 }
 
 p{
-    color: #F18D00;
+    color: #F9F0D8;
     text-align: center;
     font-size: 40px;
     margin-top: -8px;
@@ -16,3 +16,4 @@ p{
 svg{
     float: left;
 }
+
