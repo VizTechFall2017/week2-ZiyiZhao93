@@ -1,6 +1,6 @@
 var indexCard = d3.select('body').append('svg')
     .attr('width', 1000)
-    .attr('height', 700);
+    .attr('height', 600);
 
 var clicked = true;
 
